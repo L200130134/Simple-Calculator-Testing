@@ -29,10 +29,15 @@ Click image to view.
 [![main error](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-test.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-test.PNG)
 
 ### JUnit Integration Test
-[![error test1](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)
-[![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)
-[![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)
-[![no error test](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)
+
+1. **Check Input Numeric**
+    [![error test1](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)
+2. **Converting To Decimal**
+    [![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)
+3. **Testing Plus(+)**
+    [![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)
+4. **No error Result**
+    [![no error test](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)
 
 Commit For
 -----------
