@@ -7,7 +7,7 @@ Class: A
 Simple Calculator Testing
 =========
 
-Simple project java testing with JUnit.
+Simple java project testing with JUnit.
 
 ### Library
 
