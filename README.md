@@ -31,15 +31,22 @@ Click image to view.
 ### JUnit Integration Test
 
 1. **Check Input Numeric**
+
     [![error test1](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)
 2. **Converting To Decimal**
+
     [![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)
 3. **Testing Plus(+)**
+
     [![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)
 4. **No error Result**
+
     [![no error test](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)
 
 Commit For
 -----------
 Verifikasi & Validasi Perangkat Lunak (Task).
 
+Demo Jar
+-----------
+[**Download**](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/SimpleCalculatorTesting.jar)
