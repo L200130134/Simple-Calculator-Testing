@@ -24,9 +24,15 @@ Click image to view.
 
 [![main plus](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/plus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/plus.PNG)
 [![main minus](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/minus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/minus.PNG)
+[![main times](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/times.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/times.PNG)
+[![main divided](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/divided.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/divided.PNG)
+[![main error](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-test.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-test.PNG)
 
 ### JUnit Integration Test
-
+[![error test1](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-isNumeric.PNG)
+[![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-parseToDecimal.PNG)
+[![error test2](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/error-testing-plus.PNG)
+[![no error test](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)](https://github.com/L200130134/Simple-Calculator-Testing/raw/master/demo/screen-shoot/success-testing.PNG)
 
 Commit For
 -----------
